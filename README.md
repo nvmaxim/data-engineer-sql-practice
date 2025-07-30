@@ -1,7 +1,6 @@
 ## структура проекта
 
-╤ЄЁєъЄєЁр яряюъ Єюьр ╦юъры№э√щ фшёъ
-╤хЁшщэ√щ эюьхЁ Єюьр: C42B-7787
+<pre><code>``` 
 C:.
 |   notes.md
 |   README.md
@@ -17,3 +16,4 @@ C:.
         basics.sql
         joins.sql
         window-functions.sql
+```</code></pre>
