@@ -1,1 +1,0 @@
-# data-engineer-sql-practice
